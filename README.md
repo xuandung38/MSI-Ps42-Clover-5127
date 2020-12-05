@@ -19,3 +19,6 @@
    * GPU (Nvidia MX150/GTX)
    * SD Card Reader (Realtek RTS5129)
    * Fingerprint
+
+
+Thank to : [lgs3137](https://github.com/lgs3137)
